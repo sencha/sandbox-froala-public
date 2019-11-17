@@ -1,0 +1,9 @@
+# OS X
+.DS_Store
+
+# build folder
+dist
+
+# node generated
+node_modules
+package-lock.json
