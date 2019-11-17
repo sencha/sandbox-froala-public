@@ -31,5 +31,4 @@ If you copy or delete the `./node_modules` folder, download the dependencies fir
 This will run webpack and it observes the changes and will output the changes to the `./dist` directory.
 
 * Run `npm run dev`
-
-
+* Open the webpack generated [./dist/index.html](./dist/index.html).
