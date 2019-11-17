@@ -3,7 +3,7 @@
 // 1. Import the Froala Editor
 import FroalaEditor from 'froala-editor';
 
-// 2. Import a Froala Editor plugins
+// 2. Import a Froala Editor plugin(s)
 import 'froala-editor/js/plugins/align.min.js';  
 
 // 3. Import the css
