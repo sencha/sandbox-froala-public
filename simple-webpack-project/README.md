@@ -7,8 +7,8 @@ If you're creating your webpack configuration from scratch, these plugins will b
 ### Webpack
 
 * Run `npm install --save-dev webpack`
-* Run `npm install webpack webpack-cli --save-dev`
-* Run `npm install --save path`
+* Run `npm install --save-dev webpack webpack-cli`
+* Run `npm install --save-dev path`
 
 ### Webpack Plugins
 The html-webpack-plugin will copy the `index.html` template to the dist folder and add the bundle.js resource to it. 
