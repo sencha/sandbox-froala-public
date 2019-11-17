@@ -7,6 +7,7 @@ import FroalaEditor from 'froala-editor';
 import 'froala-editor/js/plugins/align.min.js';  
 
 // 3. Import the css
+// The webpack style-loader & css-loader are required to import css here. 
 import 'froala-editor/css/froala_editor.pkgd.min.css';
 import 'froala-editor/css/froala_style.min.css';
 
