@@ -1,0 +1,28 @@
+{
+  "name": "simple-froala-webpack-project-with-mathtype",
+  "version": "1.0.0",
+  "description": "Show how to use webpack",
+  "scripts": {
+    "dev": "webpack --watch",
+    "build": "webpack",
+    "start": "webpack-dev-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {},
+  "dependencies": {
+    "@wiris/mathtype-froala3": "^7.17.0",
+    "froala-editor": "^3.1.0",
+    "jquery": "^3.4.1"
+  },
+  "devDependencies": {
+    "clean-webpack-plugin": "^3.0.0",
+    "css-loader": "^3.2.0",
+    "html-webpack-plugin": "^3.2.0",
+    "path": "^0.12.7",
+    "style-loader": "^1.0.0",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.10.1"
+  }
+}
